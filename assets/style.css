@@ -43,9 +43,29 @@
   .header-menu {
     background-color: #001F3F;
   }
-  .sobre {
-    background-color: #001F3F;
-  }
-.servico-component{
-  background-color: #001F3F;
+
+/* cores personalizadas dourado profissional */
+.text-dourado {
+  color: #bfa14a; /* dourado elegante */
+}
+
+.bg-dourado {
+  background-color: #bfa14a;
+}
+
+.border-dourado {
+  border-color: #bfa14a;
+}
+
+/* azul escuro profissional */
+.text-azul-escuro {
+  color: #0a1e3f; /* azul bem escuro e sóbrio */
+}
+
+.bg-azul-escuro {
+  background-color: #0a1e3f;
+}
+
+.border-azul-escuro {
+  border-color: #0a1e3f;
 }
