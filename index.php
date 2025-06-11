@@ -4,8 +4,8 @@
     <?php include 'components/header.php'; ?>
     <?php include 'components/hero.php'; ?>
     <?php include 'components/sobre.php'; ?>
-    <?php include 'components/selos.php'; ?>
     <?php include 'components/servicoComponent.php'; ?>
+    <?php include 'components/form.php'; ?>
 </body>
 
 </html>
