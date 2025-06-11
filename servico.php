@@ -2,7 +2,14 @@
 
 <body>
     <?php include 'components/header.php'; ?>
-    <?php include 'components/hero.php'; ?>
+    <?php
+    $titulo = "Soluções logísticas personalizadas para seu negócio crescer com eficiência";
+    $descricao = "A consultoria que entende sua cadeia logística e impulsiona resultados com tecnologia e estratégia.";
+    $botaoTexto = "Fale Conosco";
+    $botaoLink = "contato.php";
+
+    include 'components/hero.php';
+    ?>
     <main>
 
         <section class="bg-white py-20 reveal">

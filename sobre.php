@@ -2,7 +2,14 @@
 
 <body>
     <?php include 'components/header.php'; ?>
-    <?php include 'components/hero.php'; ?>
+    <?php
+    $titulo = "Nossa História: Compromisso com eficiência logística e inovação";
+    $descricao = "Desde a fundação, ajudamos empresas a reduzirem custos, ganharem agilidade e crescerem com soluções logísticas sob medida.";
+    $botaoTexto = "Fale com a gente";
+    $botaoLink = "contato.php";
+
+    include 'components/hero.php';
+    ?>
     <main>
         <?php include 'components/sobre.php'; ?>
 
