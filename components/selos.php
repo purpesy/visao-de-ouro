@@ -1,4 +1,4 @@
-<section class="selos py-20 bg-azul-escuro text-white">
+<section class="selos py-20 reveal bg-azul-escuro text-white">
   <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
     
     <!-- Selo: Rastreamento Inteligente -->

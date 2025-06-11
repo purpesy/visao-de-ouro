@@ -1,4 +1,4 @@
-<section class="sobre bg-gray-50 py-20">
+<section class="sobre reveal bg-gray-50 py-20">
   <div class="container mx-auto px-6">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
       

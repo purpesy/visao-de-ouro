@@ -1,4 +1,4 @@
-<footer class="bg-azul-escuro text-gray-300 py-12 px-6">
+<footer class="bg-azul-escuro reveal text-gray-300 py-12 px-6">
   <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
 
     <!-- Identidade -->

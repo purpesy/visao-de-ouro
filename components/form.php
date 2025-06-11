@@ -1,4 +1,4 @@
-<section class="contato bg-gray-50 py-20 px-6">
+<section class="contato reveal bg-gray-50 py-20 px-6">
   <div class="max-w-3xl mx-auto bg-white shadow-lg rounded-xl p-10 animate__animated animate__fadeInUp">
     
     <h2 class="text-3xl font-extrabold text-[#0a1e3f] mb-8 text-center">
