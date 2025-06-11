@@ -2,7 +2,7 @@
   <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
     
     <!-- Selo: Rastreamento Inteligente -->
-    <div class="flip-card group cursor-pointer perspective">
+    <div class="flip-card group cursor-pointer perspective reveal">
       <div class="flip-card-cont relative w-full h-80 rounded-2xl shadow-xl transition-transform duration-700 transform-style-preserve-3d group-hover:rotate-y-180">
         
         <!-- Frente -->
@@ -21,7 +21,7 @@
     </div>
 
     <!-- Selo: Entrega Garantida -->
-    <div class="flip-card group cursor-pointer perspective">
+    <div class="flip-card group cursor-pointer perspective reveal">
       <div class="flip-card-cont relative w-full h-80 rounded-2xl shadow-xl transition-transform duration-700 transform-style-preserve-3d group-hover:rotate-y-180">
         
         <div class="flip-card-front absolute w-full h-full backface-hidden bg-white p-8 flex flex-col items-center justify-center rounded-2xl">
@@ -38,7 +38,7 @@
     </div>
 
     <!-- Selo: Otimização de Performance -->
-    <div class="flip-card group cursor-pointer perspective">
+    <div class="flip-card group cursor-pointer perspective reveal">
       <div class="flip-card-cont relative w-full h-80 rounded-2xl shadow-xl transition-transform duration-700 transform-style-preserve-3d group-hover:rotate-y-180">
         
         <div class="flip-card-front absolute w-full h-full backface-hidden bg-white p-8 flex flex-col items-center justify-center rounded-2xl">

@@ -1,7 +1,7 @@
 <section class="contato reveal bg-gray-50 py-20 px-6">
   <div class="max-w-3xl mx-auto bg-white shadow-lg rounded-xl p-10 animate__animated animate__fadeInUp">
     
-    <h2 class="text-3xl font-extrabold text-[#0a1e3f] mb-8 text-center">
+    <h2 class="text-3xl font-extrabold text-[#0a1e3f] mb-8 text-center reveal">
       Faça um orçamento
     </h2>
 
@@ -16,19 +16,19 @@
       <input type="hidden" name="_captcha" value="false" />
 
       <div>
-        <label for="nameContato" class="block text-gray-700 font-semibold mb-2">Nome *</label>
+        <label for="nameContato" class="block text-gray-700 font-semibold mb-2 reveal">Nome *</label>
         <input
           id="nameContato"
           name="nome"
           type="text"
           placeholder="Seu nome completo"
           required
-          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text"
+          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text reveal"
         />
       </div>
 
       <div>
-        <label for="telContato" class="block text-gray-700 font-semibold mb-2">Telefone *</label>
+        <label for="telContato" class="block text-gray-700 font-semibold mb-2 reveal">Telefone *</label>
         <input
           id="telContato"
           name="telefone"
@@ -36,37 +36,37 @@
           placeholder="(11) 11111-1111"
           required
           maxlength="15"
-          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text"
+          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text reveal"
         />
       </div>
 
       <div>
-        <label for="mailContato" class="block text-gray-700 font-semibold mb-2">E-mail *</label>
+        <label for="mailContato" class="block text-gray-700 font-semibold mb-2 reveal">E-mail *</label>
         <input
           id="mailContato"
           name="email"
           type="email"
           placeholder="seu@email.com"
           required
-          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text"
+          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text reveal"
         />
       </div>
 
       <div>
-        <label for="menContato" class="block text-gray-700 font-semibold mb-2">Mensagem</label>
+        <label for="menContato" class="block text-gray-700 font-semibold mb-2 reveal">Mensagem</label>
         <textarea
           id="menContato"
           name="mensagem"
           rows="5"
           placeholder="Escreva sua mensagem aqui..."
-          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 resize-none focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text"
+          class="w-full border border-gray-300 rounded-md px-4 py-3 text-gray-900 placeholder-gray-400 resize-none focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:border-yellow-400 transition cursor-text reveal"
         ></textarea>
       </div>
 
       <button
         type="submit"
         id="btnEnviarEmail"
-        class="w-full bg-[#0a1e3f] text-yellow-400 font-semibold py-4 rounded-md shadow-md hover:bg-[#09212f] transition-colors duration-300 cursor-pointer flex justify-center items-center space-x-3"
+        class="w-full bg-[#0a1e3f] text-yellow-400 font-semibold py-4 rounded-md shadow-md hover:bg-[#09212f] transition-colors duration-300 cursor-pointer flex justify-center items-center space-x-3 reveal"
       >
         <span>Enviar mensagem</span>
         <svg

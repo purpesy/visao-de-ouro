@@ -2,16 +2,16 @@
   <div class="max-w-7xl mx-auto px-6">
     <!-- Título -->
     <div class="mb-16 text-center">
-      <h3 class="text-yellow-500 font-semibold text-sm uppercase tracking-widest mb-3">Nossos Serviços</h3>
+      <h3 class="text-yellow-500 font-semibold text-sm uppercase tracking-widest mb-3 reveal">Nossos Serviços</h3>
       <h2 class="text-white text-5xl font-extrabold leading-tight max-w-4xl mx-auto">
         Como impulsionamos sua logística com excelência
       </h2>
-      <p class="mt-6 text-gray-300 max-w-3xl mx-auto text-lg leading-relaxed">
+      <p class="mt-6 text-gray-300 max-w-3xl mx-auto text-lg leading-relaxed reveal">
         Oferecemos soluções personalizadas para otimizar sua cadeia logística, reduzindo custos e aumentando a eficiência operacional de forma sustentável.
       </p>
      <a href="contato.php" class="inline-block mt-8">
         
-         <button class="mt-10 bg-yellow-500 hover:bg-yellow-600 text-[#0a1e3f] font-semibold py-4 px-10 rounded-lg shadow-lg transition duration-300 cursor-pointer">
+         <button class="mt-10 bg-yellow-500 hover:bg-yellow-600 text-[#0a1e3f] font-semibold py-4 px-10 rounded-lg shadow-lg transition duration-300 cursor-pointer reveal">
         Solicite um orçamento
       </button>
      </a>
