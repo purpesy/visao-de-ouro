@@ -42,3 +42,15 @@
     </p>
   </div>
 </footer>
+
+<script src="https://unpkg.com/scrollreveal"></script>
+    <script>
+        ScrollReveal().reveal('.reveal', {
+            origin: 'bottom',
+            distance: '50px',
+            duration: 1000,
+            delay: 100,
+            easing: 'ease-in-out',
+            reset: false // se quiser animar só uma vez
+        });
+    </script>
