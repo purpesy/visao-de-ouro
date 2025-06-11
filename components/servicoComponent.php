@@ -3,7 +3,7 @@
     <!-- Título -->
     <div class="mb-16 text-center">
       <h3 class="text-yellow-500 font-semibold text-sm uppercase tracking-widest mb-3 reveal">Nossos Serviços</h3>
-      <h2 class="text-white text-5xl font-extrabold leading-tight max-w-4xl mx-auto">
+      <h2 class="text-white text-xl md:text-5xl font-extrabold leading-tight max-w-4xl mx-auto">
         Como impulsionamos sua logística com excelência
       </h2>
       <p class="mt-6 text-gray-300 max-w-3xl mx-auto text-lg leading-relaxed reveal">

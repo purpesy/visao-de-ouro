@@ -1,5 +1,5 @@
 <section class="hero bg-[#0a1e3f] text-white py-24 px-6 text-center">
-    <h1 class="text-5xl font-extrabold max-w-4xl mx-auto mb-6">
+    <h1 class="text-xl md:text-5xl font-extrabold max-w-4xl mx-auto mb-6">
         Soluções logísticas personalizadas para seu negócio crescer com eficiência
     </h1>
     <p class="max-w-2xl mx-auto text-lg mb-8 text-gray-300">
