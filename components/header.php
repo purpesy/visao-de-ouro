@@ -3,7 +3,7 @@
 $currentPage = basename($_SERVER['PHP_SELF']);
 ?>
 
-<header class="bg-blue-950 shadow-md flex">
+<header class="header-menu shadow-md flex">
     <div class="container mx-auto px-3 py-7 flex items-center justify-between">
         <div class="logo">
             <img src="img/logo.png" alt="Logo">
