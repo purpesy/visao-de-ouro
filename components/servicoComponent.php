@@ -27,9 +27,9 @@
       </div>
 
       <div class="p-8 bg-[#112a5f] rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 border border-yellow-500 reveal ">
-        <h4 class="text-2xl font-semibold mb-4 text-yellow-400">Otimização de Transporte</h4>
+        <h4 class="text-2xl font-semibold mb-4 text-yellow-400">Otimização de Equipamentos</h4>
         <p class="text-gray-300 leading-relaxed text-base">
-          Planejamos rotas e modos de transporte eficientes para reduzir prazos e custos, melhorando a entrega de seus produtos.
+            Avaliamos e ajustamos o uso de equipamentos logísticos para maximizar sua eficiência, prolongar a vida útil e reduzir custos operacionais.
         </p>
       </div>
 

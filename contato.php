@@ -29,7 +29,7 @@
                         </div>
                         <div>
                             <h3 class="text-xl font-semibold text-white mb-1 reveal">Telefone</h3>
-                            <p class="text-gray-50 reveal">(11) 99999-9999<br>Seg - Sex: 08h às 18h</p>
+                            <p class="text-gray-50 reveal">(11) 98926-1182<br>Seg - Sex: 08h às 18h</p>
                         </div>
                     </div>
 
@@ -51,7 +51,7 @@
                         </div>
                         <div>
                             <h3 class="text-xl font-semibold text-white mb-1 reveal">Endereço</h3>
-                            <p class="text-gray-50 reveal">São Paulo - SP<br>Atendimento nacional (presencial e online)</p>
+                            <p class="text-gray-50 reveal">Av. Carmela Dutra, 380 - Jardim Pres. Dutra, Guarulhos<br>Atendimento nacional (presencial e online)</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
         <section class="bg-white py-20 px-6 text-center reveal">
             <h2 class="text-3xl font-bold mb-4 text-[#0a1e3f] reveal">Área de Atendimento</h2>
             <p class="text-gray-600 mb-8 max-w-2xl mx-auto reveal">
-                Atendemos empresas de todo o Brasil com foco em São Paulo, Rio de Janeiro, Minas Gerais e Paraná. Para outras regiões, consulte disponibilidade.
+                Atendemos empresas de todo o Brasil com foco em São Paulo. Para outras regiões, consulte disponibilidade.
             </p>
 
             <div class="flex flex-wrap justify-center gap-6 text-[#0a1e3f] font-medium reveal">

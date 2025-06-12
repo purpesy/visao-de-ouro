@@ -24,8 +24,8 @@
     <div class="reveal">
       <h4 class="text-lg font-semibold text-white mb-4">Contato</h4>
       <ul class="text-sm space-y-2">
-        <li><i class="fas fa-phone mr-2 text-indigo-500"></i> (11) 99999-9999</li>
-        <li><i class="fas fa-envelope mr-2 text-indigo-500"></i> atendimento@logitrust.com.br</li>
+        <li><i class="fas fa-phone mr-2 text-indigo-500"></i> (11) 98926-1182</li>
+        <li><i class="fas fa-envelope mr-2 text-indigo-500"></i> contato@visaodeouro.com.br</li>
         <li><i class="fas fa-map-marker-alt mr-2 text-indigo-500"></i> São Paulo, SP</li>
       </ul>
     </div>

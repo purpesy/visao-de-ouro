@@ -23,9 +23,12 @@
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSA HISTÓRIA</h2>
                         <p class="text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0">
-                            Fundada em 2010, a <strong>LogiMax Consultoria</strong> nasceu com o propósito de transformar a logística no Brasil, promovendo soluções inteligentes e acessíveis para empresas de todos os portes. Com o tempo, nos consolidamos como referência em consultoria estratégica, aliando tecnologia, planejamento e execução eficiente.
-                            <br><br>
-                            Hoje, com mais de 300 projetos entregues e uma equipe multidisciplinar, continuamos nossa trajetória rumo à excelência operacional, sempre com foco na inovação e no crescimento sustentável dos nossos clientes.
+                            Fundada em 2025 por alunos do curso técnico do SENAI, a <strong>Visão de Ouro</strong> nasceu com o objetivo de oferecer soluções logísticas inteligentes, acessíveis e adaptadas à realidade do mercado brasileiro. Unindo o conhecimento técnico adquirido em sala de aula à vontade de inovar, criamos uma agência comprometida com a <strong>excelência</strong> e a <strong>eficiência operacional</strong>. <br>
+
+                            Mesmo sendo uma iniciativa jovem, a <strong>Visão de Ouro</strong> carrega em seu DNA a busca constante por <strong>melhorias nos processos logísticos</strong>, contribuindo para o crescimento sustentável de empresas de diferentes portes e setores. Nossa missão é transformar desafios em oportunidades por meio de <strong>planejamento estratégico</strong>, <strong>análise de dados</strong> e aplicação de <strong>boas práticas logísticas</strong>. <br>
+
+                            Com uma equipe dedicada, formada por profissionais em formação e orientada por princípios de <strong>responsabilidade</strong>, <strong>inovação</strong> e <strong>aprendizado contínuo</strong>, seguimos construindo uma trajetória de impacto e profissionalismo. Estamos prontos para deixar nossa marca no setor logístico brasileiro com <strong>visão</strong>, <strong>estratégia</strong> e <strong>resultados</strong>.
+
                         </p>
                     </div>
                 </div>
@@ -39,7 +42,7 @@
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSA VISÃO</h2>
                         <p class="text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0">
-                            Ser reconhecida como a principal consultoria logística do Brasil até 2030, promovendo soluções que unem tecnologia, sustentabilidade e alta performance para transformar cadeias de suprimentos em todo o país.
+                            Ser a principal referência em consultoria no Brasil, reconhecida pela excelência, expertise e capacidade de transformar desafios em oportunidades, proporcionando aos nossos clientes uma visão clara e estratégica para o crescimento contínuo.
                         </p>
                     </div>
                     <div class="flex justify-center">
@@ -59,7 +62,7 @@
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSA MISSÃO</h2>
                         <p class="text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0">
-                            Potencializar os resultados de empresas por meio da excelência logística, oferecendo estratégias personalizadas, suporte técnico de ponta e compromisso com a evolução contínua de cada cliente.
+                            Oferecer consultoria estratégica de alta qualidade, ajudando nossos clientes a alcançar o sucesso e a prosperidade por meio de soluções personalizadas e inovação, com um foco único no fortalecimento de suas operações e no alcance de seus objetivos.
                         </p>
                     </div>
                 </div>
@@ -73,11 +76,12 @@
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSOS VALORES</h2>
                         <ul class="text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0 space-y-4 list-disc list-inside">
-                            <li><strong>Transparência:</strong> Agimos com ética, clareza e responsabilidade em todas as relações.</li>
-                            <li><strong>Comprometimento:</strong> Buscamos sempre superar as expectativas com dedicação e foco em resultados.</li>
-                            <li><strong>Inovação:</strong> Aplicamos soluções modernas para otimizar processos e garantir competitividade.</li>
-                            <li><strong>Colaboração:</strong> Valorizamos o trabalho em equipe e a construção conjunta de soluções.</li>
-                            <li><strong>Sustentabilidade:</strong> Pensamos no futuro e operamos com consciência ambiental e social.</li>
+                            <li><strong>Excelência:</strong> Buscamos entregar soluções de alto impacto, superando as expectativas dos nossos clientes com qualidade e dedicação.</li>
+                            <li><strong>Compromisso:</strong> Estamos profundamente comprometidos com o sucesso dos nossos clientes, trabalhando ao lado deles para alcançar suas metas de forma eficaz.</li>
+                            <li><strong>Inovação:</strong> Encorajamos a criatividade e a inovação, sempre em busca de abordagens únicas e eficientes para cada desafio.</li>
+                            <li><strong>Transparência:</strong> Atuamos com total transparência, construido relações de confiança e respeito com nossos clientes, colaboradores e parceiros.</li>
+                            <li><strong>Ética:</strong> Nossos serviços são conduzidos com integridade e respeito, seguindo os mais altos padrões éticos em todas as nossas interações.</li>
+                            <li><strong>Crescimento Sustentável:</strong> Apoiamos o crescimento sustentável, ajudando nossos clientes a alcançar resultados duradouros e responsáveis.</li>
                         </ul>
                     </div>
                     <div class="flex justify-center">

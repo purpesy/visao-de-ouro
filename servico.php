@@ -21,19 +21,6 @@
             </div>
             <div class="container mx-auto px-6 py-5 reveal">
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-12 text-center md:text-left reveal">
-                    <!-- Serviço 1 -->
-                    <div class="bg-gray-50 p-8 rounded-xl shadow-md hover:shadow-lg transition reveal">
-                        <div class="mb-4 text-yellow-500">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="mx-auto md:mx-0 h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2a4 4 0 014-4h2a4 4 0 014 4v2" />
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
-                            </svg>
-                        </div>
-                        <h3 class="text-xl font-semibold mb-2 reveal reveal">Gestão de Transportes</h3>
-                        <p class="text-gray-600 reveal">
-                            Planejamento e execução estratégica de transporte, com foco em redução de custos e prazos de entrega otimizados.
-                        </p>
-                    </div>
 
                     <!-- Serviço 2 -->
                     <div class="bg-gray-50 p-8 rounded-xl shadow-md hover:shadow-lg transition">
@@ -73,12 +60,12 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-8 reveal">
                     <div class="bg-white p-6 rounded-xl shadow-md reveal">
-                        <h4 class="text-xl font-semibold text-yellow-500 mb-2 reveal">+10 anos de experiência</h4>
-                        <p class="text-gray-600 reveal">Uma equipe com know-how real e foco em resultados.</p>
+                        <h4 class="text-xl font-semibold text-yellow-500 mb-2 reveal">Soluções Modernas</h4>
+                        <p class="text-gray-600 reveal">Utilizamos tecnologia de ponta para otimizar processos logísticos e garantir eficiência máxima.</p>
                     </div>
 
                     <div class="bg-white p-6 rounded-xl shadow-md reveal">
-                        <h4 class="text-xl font-semibold text-yellow-500 mb-2 reveal">Soluções personalizadas</h4>
+                        <h4 class="text-xl font-semibold text-yellow-500 mb-2 reveal">Gestão Personalizada</h4>
                         <p class="text-gray-600 reveal">Cada cliente é único. Criamos estratégias sob medida.</p>
                     </div>
 
