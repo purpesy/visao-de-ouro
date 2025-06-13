@@ -18,16 +18,21 @@
             <div class="container mx-auto px-6">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div class="flex justify-center">
-                        <img src="img/imagem-exemplo.jpg" alt="Imagem da história" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
+                        <img src="img/historia.jpg" alt="Imagem da história" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
                     </div>
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSA HISTÓRIA</h2>
                         <p class="text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0">
-                            Fundada em 2025 por alunos do curso técnico do SENAI, a <strong>Visão de Ouro</strong> nasceu com o objetivo de oferecer soluções logísticas inteligentes, acessíveis e adaptadas à realidade do mercado brasileiro. Unindo o conhecimento técnico adquirido em sala de aula à vontade de inovar, criamos uma agência comprometida com a <strong>excelência</strong> e a <strong>eficiência operacional</strong>. <br>
+                            A <strong>Visão de Ouro Consultoria</strong> foi fundada em <strong>2017</strong>, a partir da união de cinco profissionais com formações e trajetórias em áreas distintas. Apesar das diferentes especializações, todos enfrentavam desafios similares no dia a dia: <strong>falhas nos processos logísticos</strong>, gargalos no recebimento de mercadorias, problemas com layout de armazenagem e falta de integração nas operações. <br>
 
-                            Mesmo sendo uma iniciativa jovem, a <strong>Visão de Ouro</strong> carrega em seu DNA a busca constante por <strong>melhorias nos processos logísticos</strong>, contribuindo para o crescimento sustentável de empresas de diferentes portes e setores. Nossa missão é transformar desafios em oportunidades por meio de <strong>planejamento estratégico</strong>, <strong>análise de dados</strong> e aplicação de <strong>boas práticas logísticas</strong>. <br>
+                            Essas dificuldades despertaram um objetivo em comum — <strong>criar uma consultoria capaz de oferecer soluções logísticas estratégicas, personalizadas e eficientes</strong>, com base em experiências reais vividas dentro das empresas. <br>
 
-                            Com uma equipe dedicada, formada por profissionais em formação e orientada por princípios de <strong>responsabilidade</strong>, <strong>inovação</strong> e <strong>aprendizado contínuo</strong>, seguimos construindo uma trajetória de impacto e profissionalismo. Estamos prontos para deixar nossa marca no setor logístico brasileiro com <strong>visão</strong>, <strong>estratégia</strong> e <strong>resultados</strong>.
+                            Assim nasceu a <strong>Visão de Ouro</strong>: uma consultoria que alia <strong>conhecimento técnico</strong>, <strong>visão estratégica</strong> e <strong>compromisso com resultados</strong>. Desde então, atuamos ao lado de empresas que buscam transformar sua logística em um <strong>diferencial competitivo</strong>. <br>
+
+                            Com foco em <strong>excelência</strong>, <strong>inovação</strong> e <strong>crescimento sustentável</strong>, desenvolvemos projetos sob medida, sempre com <strong>transparência</strong>, <strong>ética</strong> e atenção às necessidades específicas de cada cliente. <br>
+
+                            Mais do que resolver problemas, entregamos <strong>clareza</strong>, <strong>estrutura</strong> e <strong>valor</strong>.
+
 
                         </p>
                     </div>
@@ -46,7 +51,7 @@
                         </p>
                     </div>
                     <div class="flex justify-center">
-                        <img src="img/imagem-exemplo.jpg" alt="Imagem da visão" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
+                        <img src="img/visao.jpg" alt="Imagem da visão" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
                     </div>
                 </div>
             </div>
@@ -57,7 +62,7 @@
             <div class="container mx-auto px-6">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div class="flex justify-center">
-                        <img src="img/imagem-exemplo.jpg" alt="Imagem da missão" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
+                        <img src="img/missao.jpg" alt="Imagem da missão" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
                     </div>
                     <div class="text-center md:text-left">
                         <h2 class="text-2xl md:text-5xl font-extrabold mb-6 text-yellow-500">NOSSA MISSÃO</h2>
@@ -85,7 +90,7 @@
                         </ul>
                     </div>
                     <div class="flex justify-center">
-                        <img src="img/imagem-exemplo.jpg" alt="Imagem dos valores" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
+                        <img src="img/valores.jpg" alt="Imagem dos valores" class="w-full max-w-md h-auto rounded-lg shadow-xl object-cover">
                     </div>
                 </div>
             </div>

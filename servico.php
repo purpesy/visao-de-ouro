@@ -47,6 +47,20 @@
                             Diagnóstico completo da cadeia logística e desenvolvimento de planos personalizados para evolução do seu negócio.
                         </p>
                     </div>
+
+                    <!-- Serviço 4 (novo serviço, sem transporte) -->
+                    <div class="bg-gray-50 p-8 rounded-xl shadow-md hover:shadow-lg transition">
+                        <div class="mb-4 text-yellow-500 reveal">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mx-auto md:mx-0 h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h8M12 8v8" />
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-s   emibold mb-2 reveal">Automação de Processos</h3>
+                        <p class="text-gray-600 reveal">
+                            Implantação de soluções tecnológicas para automatizar tarefas repetitivas, aumentar a produtividade e reduzir erros operacionais.
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>

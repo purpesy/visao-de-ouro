@@ -1,16 +1,11 @@
-<?php
-$currentPage = basename($_SERVER['PHP_SELF']);
-?>
-
-<header class="bg-azul-escuro shadow-md">
+<header class="fixed top-0 left-0 w-full z-50 bg-azul-escuro shadow-md">
   <div class="container mx-auto px-6 py-5 flex items-center">
     <div class="logo">
-      <img src="img/logo.png" alt="Logo" class="h-10">
+      <img src="img/logo.png" alt="Logo" class="h-15 w-auto">
     </div>
 
-    <div class="flex-1"></div> <!-- Espaço flexível que empurra o menu e botão pro final -->
+    <div class="flex-1"></div>
 
-    <!-- Botão hamburger: só visível em telas pequenas -->
     <button id="menu-btn" class="md:hidden text-gray-300 focus:outline-none">
       <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -18,7 +13,6 @@ $currentPage = basename($_SERVER['PHP_SELF']);
       </svg>
     </button>
 
-    <!-- Menu principal desktop -->
     <nav>
       <ul id="menu" class="hidden md:flex space-x-12 font-sans text-gray-300 text-lg ml-6">
         <li>
@@ -37,7 +31,6 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     </nav>
   </div>
 
-  <!-- Menu mobile (vertical) -->
   <nav id="mobile-menu" class="md:hidden bg-[#0A1E3F] hidden">
     <ul class="flex flex-col space-y-4 px-6 py-4 font-sans text-gray-300 text-lg">
       <li>

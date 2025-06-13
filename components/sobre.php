@@ -12,7 +12,7 @@
       </div>
 
       <div class="flex justify-center reveal">
-        <img src="img/imagem-exemplo.jpg" alt="Sobre Nós" class="w-full max-w-md h-auto rounded-lg shadow-lg object-cover">
+        <img src="img/sobre-nos.jpg" alt="Sobre Nós" class="w-full max-w-md h-auto rounded-lg shadow-lg object-cover">
       </div>
 
     </div>

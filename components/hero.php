@@ -1,4 +1,4 @@
-<section class="hero bg-[#0a1e3f] text-white py-24 px-6 text-center">
+<section class="hero bg-[#0a1e3f] text-white py-24 px-6 text-center my-20">
     <h1 class="text-xl md:text-5xl font-extrabold max-w-4xl mx-auto mb-6 uppercase">
         <?= $titulo ?>
     </h1>
