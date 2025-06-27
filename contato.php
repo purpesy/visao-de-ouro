@@ -29,7 +29,7 @@
                         </div>
                         <div>
                             <h3 class="text-xl font-semibold text-white mb-1 reveal">Telefone</h3>
-                            <p class="text-gray-50 reveal">(11) 98926-1182<br>Seg - Sex: 08h às 18h</p>
+                            <p class="text-gray-50 reveal">(11) 99999-1182<br>Seg - Sex: 08h às 18h</p>
                         </div>
                     </div>
 
